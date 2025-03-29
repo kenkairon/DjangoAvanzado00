@@ -65,7 +65,7 @@ Educativo y de Aprendizaje Personal
     ```bash
     cd codigofacilito
 
-8. Creamos la Aplicación laboratorio 
+8. Creamos la Aplicación categories
     ```bash
    python manage.py startapp categories
 
