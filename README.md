@@ -8,12 +8,7 @@ Educativo y de Aprendizaje Personal
 - [Activación del Entorno](#Activación-del-Entorno)
 - [Configuración Inicial](#configuración-inicial)
 - [Pasos del Proyecto](#pasos-del-proyecto)
-- [Configuración Base de datos](#configuración-Base-de-datos)
-  - [Creación del Modelo ](#creación-del-modelo)
-  - [Creamos el superusuario](#creamos-el-superusuario)
-  - [Parte 2](#parte-2)
-  - [Parte 3](#parte-3)
-  - [Parte 4](#parte-4)
+
 ---
 
 ## Requisitos
