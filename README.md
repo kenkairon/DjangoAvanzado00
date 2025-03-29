@@ -69,3 +69,4 @@ Educativo y de Aprendizaje Personal
     ```bash
    python manage.py startapp categories
 
+
